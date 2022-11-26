@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pailin26
 - 👀 I’m interested in Robotics, AI, Game Dev, 3D model and more...
 - 🌱 I’m currently learning Robotics & AI engineering 
-- 💞️ I’m looking to collaborate on game project
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me: paipailin26@gmail.com
 
 <!---
